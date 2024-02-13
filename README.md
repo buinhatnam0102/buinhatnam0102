@@ -1,10 +1,11 @@
 ### Hi there 👋
 <h2 align="center"> Hi there 👋</h2>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href=">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhatnam0102&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
+  
 </p>
 
 <p>
